@@ -1,6 +1,7 @@
 # Web Analytics Italia
 
 [![CircleCI](https://img.shields.io/circleci/project/github/teamdigitale/webanalytics-onboarding.svg?colorB=0066cc)](https://circleci.com/gh/teamdigitale/webanalytics-onboarding)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteamdigitale%2Fwebanalytics-onboarding.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteamdigitale%2Fwebanalytics-onboarding?ref=badge_shield)
 
 ## Development
 
@@ -51,3 +52,6 @@ Refer to its [README](https://github.com/italia/spid-laravel/blob/master/README.
 This project is developed using Laravel which is released under the `MIT License`.
 
 `SIL Open Font License 1.1` is applied to the Titillium font included from CSS files.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteamdigitale%2Fwebanalytics-onboarding.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteamdigitale%2Fwebanalytics-onboarding?ref=badge_large)
